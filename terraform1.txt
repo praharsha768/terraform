@@ -45,7 +45,7 @@ provider "aws"{
 }
 
 
-vi variables.pt
+vi variables.tf
 variable "region"{
   default = "eu-north-1"
 }
