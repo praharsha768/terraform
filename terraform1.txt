@@ -32,8 +32,8 @@ cd project
 
 provider "aws" {
   region     = "ap-south-1"
-  access_key = "AKIA53A44ZBNBPKECH5_B"
-  secret_key = "/p5d49lblnwRoyZjasGptmx1jACjja6U20pJdt9N"
+  access_key = "AKIA53A44ZBNARD5DHG_2"
+  secret_key = "wijBmBzW0WjRYnzzlRPgC3eVo8ia5RqyFKaIZSTz"
 }
 
 
